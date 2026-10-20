@@ -116,3 +116,17 @@ node ../n8n-node/test/run.js # 25 checks
 ## License
 
 MIT
+
+---
+
+## All DataCheck tools
+
+| Tool | Install | Docs |
+|---|---|---|
+| **n8n node** | `npm install n8n-nodes-datacheck` | [docs](https://contentforge-press.github.io/n8n-nodes-datacheck/) |
+| **MCP server** | `npm install -g datacheck-mcp` | [docs](https://contentforge-press.github.io/datacheck-mcp/) |
+| **Python CLI** | [git clone](https://github.com/contentforge-press/dvq) | [docs](https://contentforge-press.github.io/dvq/) |
+| **Core library** | [git clone](https://github.com/contentforge-press/datacheck-core) | [docs](https://contentforge-press.github.io/datacheck-core/) |
+| **Browser check** | no install | [try it](https://contentforge-press.github.io/data-health-check/) |
+
+Product home: [datacheck.pixharvest.com](https://datacheck.pixharvest.com)
